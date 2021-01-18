@@ -3,7 +3,7 @@ title: "Gary M. Weiss"
 #date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/gary.png"
-jobtitle: "Professor, Fordham University"
+jobtitle: "Professor, Fordham"
 linkedinurl: "https://storm.cis.fordham.edu/~gweiss/"
 promoted: true
 weight: 3
