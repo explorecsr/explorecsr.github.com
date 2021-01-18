@@ -1,8 +1,8 @@
 main:
-  - name: "Services"
+  - name: "Mentors"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Projects"
     url: "/team/"
     weight: 3
   - name: "About"
@@ -16,6 +16,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "About"
+    url: "/about/"
     weight: 2
