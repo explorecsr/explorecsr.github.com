@@ -8,9 +8,9 @@ main:
   - name: "About"
     url: "/about/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
+  - name: "Home"
+    url: "/"
+    weight: 1
 
 footer:
   - name: "Mentors"
@@ -22,6 +22,6 @@ footer:
   - name: "About"
     url: "/about/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
+  - name: "Home"
+    url: "/"
+    weight: 1
