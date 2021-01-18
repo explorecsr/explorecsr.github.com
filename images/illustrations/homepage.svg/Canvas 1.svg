@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-313 73 656 272" width="656" height="272">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.18.1\n2021-01-18 17:35:38 +0000</metadata>
+  <g id="Canvas_1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_9">
+        <path d="M -304 73 L 334 73 C 338.97056 73 343 77.02944 343 82 L 343 336 C 343 340.97056 338.97056 345 334 345 L -304 345 C -308.97056 345 -313 340.97056 -313 336 L -313 82 C -313 77.02944 -308.97056 73 -304 73 Z" fill="white"/>
+      </g>
+      <g id="Graphic_3">
+        <rect x="112" y="244" width="215.96244" height="92" id="path"/>
+        <clipPath id="clip_path">
+          <use xl:href="#path"/>
+        </clipPath>
+        <g clip-path="url(#clip_path)">
+          <image xl:href="image1.png" width="1e3" height="426" transform="translate(112 244) scale(.21596244)"/>
+        </g>
+      </g>
+      <g id="Graphic_6">
+        <rect x="112" y="156" width="215.96244" height="65.30293" id="path_2"/>
+        <clipPath id="clip_path_2">
+          <use xl:href="#path_2"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_2)">
+          <image xl:href="image4.jpg" width="1008" height="304.8" transform="translate(112 156) scale(.21424845)"/>
+        </g>
+      </g>
+      <g id="Graphic_7">
+        <rect x="-297.93897" y="148.65146" width="379.9014" height="78.65146" id="path_3"/>
+        <clipPath id="clip_path_3">
+          <use xl:href="#path_3"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_3)">
+          <image xl:href="image5.png" width="1024" height="212" transform="translate(-297.93897 148.65146) scale(.37099747)"/>
+        </g>
+      </g>
+      <g id="Graphic_8">
+        <rect x="-297.93897" y="244" width="386.4" height="92" id="path_4"/>
+        <clipPath id="clip_path_4">
+          <use xl:href="#path_4"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_4)">
+          <image xl:href="image6.png" width="2100" height="500" transform="translate(-297.93897 244) scale(.184)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
