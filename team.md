@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Meet The Mentors
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our faculty mentors conduct cutting-edge research projects from various topics, such as machine learning, cloud computing, software engineering and robotics.
