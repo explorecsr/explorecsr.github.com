@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Projects
 layout: services
 intro_image: "images/illustrations/projects.webp"
 intro_image_absolute: true
