@@ -10,10 +10,10 @@ logo:
   mobile: "images/logo/logo-mobile.svg"
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
-footer:
+#footer:
 #  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
-seo:
+#seo:
 #  meta_og_title: "Jekyll Serif Theme"
 #  meta_og_type: "website"
 #  meta_og_url: "https://jekyll-serif-theme.netlify.app"
@@ -31,7 +31,7 @@ collections:
 
 sass:
   indentWidth: 4
-  style: compact # possible values: nested expanded compact compressed
+  style: compressed # possible values: nested expanded compact compressed
   precision: 10
 
 plugins:
