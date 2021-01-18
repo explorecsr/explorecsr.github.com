@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Community Engagement",
+    "description": "Meet the researchers with.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Team Collaboration",
+    "description": "Work with your peers toward the same goal.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Research Opportunities",
+    "description": "We conduct interesting project to develop your interests in computer science research.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
