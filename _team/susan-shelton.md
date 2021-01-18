@@ -5,6 +5,7 @@ draft: false
 image: 'images/team/cristian-newman-94319-unsplash.jpg'
 jobtitle: 'Developer'
 weight: 5
+promoted: true
 layout: team
 ---
 
