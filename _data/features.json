@@ -1,17 +1,17 @@
 [
   {
     "title": "Community Engagement",
-    "description": "Meet the researchers with.",
+    "description": "Match with a faculty mentor and other students with similar experience.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
     "title": "Team Collaboration",
-    "description": "Work with your peers toward the same goal.",
+    "description": "Meet regularly with the mentor and work with your peers toward the research goal.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Research Opportunities",
-    "description": "We conduct interesting project to develop your interests in computer science research.",
+    "description": "Conduct interesting project to develop your interests in computer science research.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
