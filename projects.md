@@ -8,4 +8,5 @@ intro_image_hide_on_mobile: false
 
 # Research projects to enhance your experience
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+The faculty mentors have designed interesting and feasible research projects
+for students with various background. The students will experience computer science research with conceptual principles, programming platforms, project collaboration and data analytics.
