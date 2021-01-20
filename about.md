@@ -8,7 +8,10 @@ bodyClass: page-about
 Sponsored by **Google Research**, **Fordham University**,
 **University of Connecticut** and **Stevens Institute of Technology**
 have teamed up to provide a 8-week computer science research
-experience to students in the tri-state area.
+experience to students in the tri-state area. The research projects welcome
+students from all underrepresented minority groups, including but not limited to Women, Black/African American, Hispanic/Latino, and First-Generation College students. 
+
+
 
 
 ## Ne verba patulosque numen vix libet
