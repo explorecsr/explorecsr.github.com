@@ -23,7 +23,7 @@ The participants of this project will achieve the following learning and researc
 4. Explore the optimization techniques to improve the performance of the targeted applications.
 
 
-![Tensorflow](/images/projects/tensorflow.png){width=60%}
-![Pytorch](/images/projects/pytorch.jfif){width=60%}
-![Docker](/images/projects/docker.png){width=60%}
-![Kubernetes](/images/projects/k8s.jpg){width=60%}
+![Tensorflow](/images/projects/tensorflow.png = 250px)
+![Pytorch](/images/projects/pytorch.jfif = 250px)
+![Docker](/images/projects/docker.png = 250px)
+![Kubernetes](/images/projects/k8s.jpg = 250px)
