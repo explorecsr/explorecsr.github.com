@@ -22,7 +22,7 @@ The participants of this project will achieve the following learning and researc
 3. Investigate the containerized deep learning applications.
 4. Explore the optimization techniques to improve the performance of the targeted applications.
 
-<img src="/images/projects/tensorflow.png" alt="tensorflow" width="300"/>
+<img src="/images/projects/tensorflow.png" alt="tensorflow" width="290"/>
 <img src="/images/projects/pytorch.jfif" alt="pytorch" width="300"/>
 <img src="/images/projects/docker.png" alt="docker" width="300"/>
-<img src="/images/projects/k8s.jpg" alt="k8s" width="300"/>
+<img src="/images/projects/k8s.jpg" alt="k8s" width="290"/>
