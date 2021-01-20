@@ -1,11 +1,11 @@
 ---
-title: 'ExploreCSR'
+title: 'Explore Computer Science Research'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
 
-Computer Science 
+Computer Science
 
 ## Ne verba patulosque numen vix libet
 
