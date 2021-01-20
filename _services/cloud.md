@@ -25,5 +25,5 @@ The participants of this project will achieve the following learning and researc
 
 ![Tensorflow](/images/projects/tensorflow.png)
 ![Pytorch](/images/projects/pytorch.jfif)
-![Docker](/images/projects/docker.png = 250x)
-![Kubernetes](/images/projects/k8s.jpg = 250x)
+![Docker](/images/projects/docker.png =250x)
+![Kubernetes](/images/projects/k8s.jpg =250x)
