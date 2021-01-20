@@ -4,7 +4,7 @@ title: "Ying Mao"
 draft: false
 image: "images/team/ying.jpg"
 jobtitle: "Assistant Professor, Fordham"
-linkedinurl: "www.yingmao.us"
+linkedinurl: "https://yingmao.github.io/"
 promoted: true
 weight: 1
 layout: team
