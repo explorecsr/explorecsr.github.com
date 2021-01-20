@@ -20,7 +20,10 @@ The participants of this project will achieve the following learning and researc
 1. Learn the basic concepts of deep learning applications.
 2. Learn how to understand the python programs that develop with Tensorflow and Pytorch libraries.
 3. Investigate the containerized deep learning applications.
-4. Explore the optimization techniques to improve the performance of the targeted applications. 
+4. Explore the optimization techniques to improve the performance of the targeted applications.
 
 
-![Tensorflow](/images/projects/tensorflow.png)
+![Tensorflow](/images/projects/tensorflow.png){width=60%}
+![Pytorch](/images/projects/pytorch.jfif){width=60%}
+![Docker](/images/projects/docker.png){width=60%}
+![Kubernetes](/images/projects/k8s.jpg){width=60%}
