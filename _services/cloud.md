@@ -6,9 +6,10 @@ weight: 1
 layout: service
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Virtualization is a promising technology that has facilitated cloud computing to become the next wave of the Internet revolution. Adopted by data centers, millions of applications that are powered by various virtual machines improve the quality of services. Although virtual machines are well-isolated among each other, they suffer from redundant boot volumes and slow provisioning time.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+To address limitations, containers were born to deploy and run distributed applications without launching entire virtual machines. However, general-purpose container orchestrion platforms, such as Docker Swarm and Kubernetes, fail to work well with deep learning applications,e.g. Tensorflow and Pytorch. With the respect to unique characteristics, we aim to improve a cluster of containerized deep learning applications and boost the overall system performance.
+
 
 # Objectives
 
