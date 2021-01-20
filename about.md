@@ -5,8 +5,8 @@ layout: page
 bodyClass: page-about
 ---
 
-Sponsored by Google Research, Fordham University,
-University of Connecticut and Stevens Institute of Technology
+Sponsored by **Google Research**, **Fordham University**,
+**University of Connecticut** and **Stevens Institute of Technology**
 have teamed up to provide a 8-week computer science research
 experience to students in the tri-state area.
 
