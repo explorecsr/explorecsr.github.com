@@ -1,12 +1,12 @@
 ---
-title: "Ying Mao"
+title: "Yuxin Lin"
 # date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/yuxin.jpg"
 jobtitle: "Research Affiliate, Columbia"
 linkedinurl: "https://ccrc.tc.columbia.edu/person/yuxin-lin.html"
 promoted: true
-weight: 1
+weight: 6
 layout: team
 ---
 
