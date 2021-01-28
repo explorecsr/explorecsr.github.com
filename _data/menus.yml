@@ -5,8 +5,8 @@ main:
   - name: "Projects"
     url: "/projects/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Schedule"
+    url: "/schedule/"
     weight: 4
   - name: "Home"
     url: "/"
@@ -19,8 +19,8 @@ footer:
   - name: "Projects"
     url: "/projects/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Schedule"
+    url: "/schedule/"
     weight: 4
   - name: "Home"
     url: "/"
