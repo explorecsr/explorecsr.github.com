@@ -1,5 +1,5 @@
 main:
-  - name: "Mentors"
+  - name: "Team"
     url: "/team/"
     weight: 2
   - name: "Projects"
@@ -13,7 +13,7 @@ main:
     weight: 1
 
 footer:
-  - name: "Mentors"
+  - name: "Team"
     url: "/team/"
     weight: 2
   - name: "Projects"
