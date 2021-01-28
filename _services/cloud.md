@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-**Faculty Mentor: Ying Mao**
+**Faculty Mentor: Ying Mao (Fordham)**
 
 Virtualization is a promising technology that has facilitated cloud computing to become the next wave of the Internet revolution. Adopted by data centers, millions of applications that are powered by various virtual machines improve the quality of services. Although virtual machines are well-isolated among each other, they suffer from redundant boot volumes and slow provisioning time.
 
