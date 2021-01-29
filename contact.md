@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Apply Now
 layout: contact
 bodyClass: page-contact
 ---
