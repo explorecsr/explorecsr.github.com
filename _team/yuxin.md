@@ -10,4 +10,4 @@ weight: 6
 layout: team
 ---
 
-Dr. Lin's studies the transition from high school to college, community colleges, and financial aid. She will be the program evaluator of our ExploreCSR.
+Dr. Lin studies the transition from high school to college, community colleges, and financial aid. She will be the program evaluator of our ExploreCSR and conduct post-program interviews.
