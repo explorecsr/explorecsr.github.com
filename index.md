@@ -2,7 +2,7 @@
 title: Tri-State Explore Computer Science Research (ExploreCSR)
 layout: home
 description: Sponsored by Google Research, Fordham, UConn and Stevens provide opportunities to explore computer science research.
-intro_image: "images/illustrations/homepage.svg"
+intro_image: "images/illustrations/homepage.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
