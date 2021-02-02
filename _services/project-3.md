@@ -1,5 +1,5 @@
 ---
-title: "Investigating leadership practices in online open source communities"
+title: "Leadership practices in opensource communities"
 #date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 3

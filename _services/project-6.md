@@ -1,5 +1,5 @@
 ---
-title: "A GCN-LSTM Model for COVID-19 Transmission in Connecticut"
+title: "COVID-19 Transmission in Connecticut"
 #date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 6
