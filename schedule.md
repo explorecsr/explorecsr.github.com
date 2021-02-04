@@ -32,9 +32,15 @@ The interested students apply through our [online application](https://docs.goog
 
 ## Workshop Schedule (on April 23rd, 2021)
 
+- Keynote speaker from Academia and Industry
+- Panel discussion on career planning
+- Discussion on Graduate School
+- Research poster presentation
+
 - To be determined
 
 
 ## Award
 
+- Poster Award
 - To be determined
