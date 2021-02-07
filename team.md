@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our faculty mentors conduct cutting-edge research projects from various topics, such as machine learning, cloud computing, software engineering and robotics.
+Our faculty mentors conduct cutting-edge research projects from various topics, such as machine learning, cloud computing, software engineering and robotics. The projects are designed for students with various backgrounds.
