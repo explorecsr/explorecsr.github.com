@@ -23,7 +23,8 @@ The interested students apply through our [online application](https://docs.goog
 
 ## Research Schedule
 
-- Selected students will work on targeted project in a small group for **8 weeks**.
+- Selected students will work on targeted project in a small group for **8 weeks** from
+<span style="color:red">February 22nd to April 22nd text</span>.
 - The faculty mentor of the project will lead the group.
 - The students are expected to have a weekly meeting with their mentors.
 - At the end of the program, each group will present a poster in the **poster competition** session during the workshop.
