@@ -35,12 +35,12 @@ The interested students apply through our [online application](https://docs.goog
 
 ### Title: Introduction to Deep Learning
 
-####  Description: A quick intro to deep learning, including representation learning, and the fundamentals of neural networks. You'll learn about the major types of neural networks (DNNs, CNNs, and RNNs), as well as techniques that can help you interpret how and why they work, including Deep Dream. Each area mentioned will include links to complete code examples in TensorFlow 2.0.
+- Description: A quick intro to deep learning, including representation learning, and the fundamentals of neural networks. You'll learn about the major types of neural networks (DNNs, CNNs, and RNNs), as well as techniques that can help you interpret how and why they work, including Deep Dream. Each area mentioned will include links to complete code examples in TensorFlow 2.0.
 
 ### Speaker: Josh Gordon
 
-![josh](images/speaker/josh.jpg)
-#### Short Bio: Speaker bio: Josh Gordon works on the **TensorFlow** team at Google, and teaches Applied Deep Learning at Columbia University, and Machine Learning at Pace University. You can find him online at https://twitter.com/random_forests
+![josh](images/speaker/josh.png)
+- Short Bio: Speaker bio: Josh Gordon works on the **TensorFlow** team at Google, and teaches Applied Deep Learning at Columbia University, and Machine Learning at Pace University. You can find him online at https://twitter.com/random_forests
 
 
 
