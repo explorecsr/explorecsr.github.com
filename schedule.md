@@ -11,6 +11,8 @@ have teamed up to provide a 8-week computer science research
 experience to students in the tri-state area. We welcome
 students from all underrepresented minority groups, including but not limited to Women, Black/African American, Hispanic/Latino, First-Generation College students and beyond.
 
+----
+
 ## Application
 
 The interested students apply through our [online application](https://docs.google.com/forms/d/e/1FAIpQLScivxcgj9GIloL09E1TAh5GoQ6RXgr2MLOMojjSphcBZMHnHQ/viewform?usp=sf_link).
@@ -20,6 +22,7 @@ The interested students apply through our [online application](https://docs.goog
  - During the application, you need to select a project that you are interested in. The projects are hosted in three institutions, Fordham University,
  University of Connecticut and Stevens Institute of Technology.
 
+----
 
 ## Research Schedule
 
@@ -30,8 +33,9 @@ The interested students apply through our [online application](https://docs.goog
 - At the end of the program, each group will present a poster in the **poster competition** session during the workshop.
 - All the activities will be completed **online**.
 
+----
 
-## Keynote
+## Keynote Speaker
 
 ### Title: Introduction to Deep Learning
 
@@ -41,7 +45,7 @@ The interested students apply through our [online application](https://docs.goog
 ### Speaker: Josh Gordon (Google)
 - Speaker bio: Josh Gordon works on the **TensorFlow** team at Google, and teaches Applied Deep Learning at Columbia University, and Machine Learning at Pace University. You can find him online at [Twitter](https://twitter.com/random_forests).
 
-
+----
 
 ## Workshop Schedule (on April 23rd, 2021)
 
@@ -52,6 +56,7 @@ The interested students apply through our [online application](https://docs.goog
 
 - To be determined
 
+----
 
 ## Award
 
