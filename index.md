@@ -11,4 +11,4 @@ intro_image_hide_on_mobile: true
 
 Sponsored by Google Research, Fordham University, University of Connecticut and Stevens Institute of Technology provide opportunities to explore computer science research from February 22nd to April 23rd 2021.
 
-<span style="color:red">The Application Period is Now Closed.</span>.
+<span style="color:red">The Application Period is Now Closed.</span>
