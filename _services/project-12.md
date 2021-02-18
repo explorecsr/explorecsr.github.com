@@ -2,7 +2,7 @@
 title: "Designing Human-Centered AI Systems to Improve Student Engagement "
 #date: 2018-11-28T15:14:54+10:00
 featured: true
-weight: 11
+weight: 13
 layout: service
 ---
 **Faculty Mentor: Sang Won Bae  (Stevens Institute of Technology)**
