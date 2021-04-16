@@ -37,21 +37,14 @@ The interested students apply through our [online application](https://docs.goog
 
 ## Keynote Speaker
 
-### Title: Introduction to Deep Learning
 
-<img class="two" align="right" src="/images/speaker/josh.png" height="28%" width="28%">
-- Description: A quick intro to deep learning, including a code [walkthrough](https://www.tensorflow.org/tutorials/keras/classification), and a few words about the fundamentals of neural networks. You'll learn about the major types of neural networks (DNNs, CNNs, and RNNs), as well as techniques that can help you interpret how and why they work, including Deep Dream. Each area mentioned will include links to complete code examples in TensorFlow 2.0.
-
-### Speaker: Josh Gordon (Google)
-- Speaker bio: Josh Gordon works on the **TensorFlow** team at Google, and teaches Applied Deep Learning at Columbia University, and Machine Learning at Pace University. You can find him online at [Twitter](https://twitter.com/random_forests).
 
 ----
 
 ## Workshop Schedule (on April 23rd, 2021)
 
 - Keynote speaker from Academia and Industry
-- Panel discussion on career planning
-- Discussion on Graduate School
+- Panel discussion on research and career
 - Research poster presentation
 
 - To be determined
