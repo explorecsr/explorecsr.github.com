@@ -59,37 +59,65 @@ combining multiple scoring systems
 
 - Research presentation
 
-  - session-1
-    - Spam Classification Using Machine Learning
+  - Session-1
+    - *Spam Classification Using Machine Learning*
       - Team Members: Deshawn Leiba (William Paterson), Fidel Ojimba (Hunter), Gary
 Tapia (Fordham), and Senay Tesfamichael (Rowan)
       - Mentors: Gary M. Weiss (Fordham), Ray Tischio (Fordham)
-    - Autonomous Robot Exploration: Team 1
+    - *Autonomous Robot Exploration: Team 1*
       - Team Member: Zarrin Ali (Fordham), Jessica De Moto Munoz (Hunter), Duvall Pinkney (Lehman),
       - Mentor: Damian Lyons (Fordham)
-    - Quantum State Fidelity based Autoencoder
+    - *Quantum State Fidelity based Autoencoder*
       - Team Members: Sanjidah Abdullah (Hunter), Ethan Lazaro (UConn), Durwood Pinkett (Rowan)
       - Mentors: Ying Mao (Fordham), Samuel Stein (Fordham)
-    - Predicting COVID-19 Transmission in Connecticut Using Deep Learning
+    - *Predicting COVID-19 Transmission in Connecticut Using Deep Learning*
       - Team Members: Ayushi Patel (UConn), Khori Francis (UConn), Kathryn Dyson (UConn), Nathan Choi (UConn)
       - Mentor: Caiwen Ding (UConn)
-    - Utility Monitoring in Data Centers
+    - *Utility Monitoring in Data Centers*
       - Team Members: Kiera Wolfe (UConn), Erik Brown (Fordham), Sheriann, McLarty (CityTech)
       - Mentor: Caiwen Ding (UConn)
-    - Fairness and Privacy in the Optimal Transport for Resource Allocation
+    - *Fairness and Privacy in the Optimal Transport for Resource Allocation*
       - Team Members: Erin Yan (CMU), Hailey Bober (Hofstra), Maria Jara (Fordham), Navpreet, Kaur (Fordham)
       - Mentor: Juntao Chen (Fordham)
-    - Detecting and Tracking Variations and Biases in Figure Skating Judgement
+    - *Detecting and Tracking Variations and Biases in Figure Skating Judgement*
       - Team Members: Yoomin Song (Hunter), Karla Rodriguez (Fordham), Lani Moreno (Rider),
       - Mentor: Frank Hsu (Fordham)
-    - Quantum Convolutional Neural Network
+    - *Quantum Convolutional Neural Network*
       - Team Members: Cyrus Simmons (Staten Island) and Kate Piotrowski (UConn)
       - Mentors: Ying Mao (Fordham), Samuel Stein (Fordham)
-    - Efficient Pruning for Deep Neural Networks
+    - *Efficient Pruning for Deep Neural Networks*
       - Team Member: Saumya Shah (UConn)
       - Mentors: Caiwen Ding (UConn), Aditya Kulkarni (UConn)
-
-
+---
+  - Session-2
+    - Preference Detection using Eye Movement Gaze Cascade and
+Combinatorial Fusion
+      - Team Members: Millenia Polanco(UConn), Sanaa Elmosbah(CityTech), Kexin Zhang(Fordham)
+      - Mentors: Frank Hsu (Fordham), Christina Schweikert (St. Johns)
+    - Detecting Student Emotion and Flow in College Students During the Online Courses – Objectivity-Oriented Approach in the Context of Coding Practice for Engineering Classes
+      - Team Members: Arens Demaliaj (Hunter), Hashir Khan (Hunter) and Imtiaz Rahman (Hunter)
+      - Mentor: Grace Bae (Stevens)
+    - Tak Pricing Patterns in Software Crowdsourcing
+      - Team Members: April McBroom (Hartford), Jeison Araujo (CityTech), Joseph Mirabile (Stevens),
+      - Mentors: Ye Yang (Stevens), Yinghui Cai (Stevens)
+    - Spam Detectives: SMS Spam Detection
+      - Team Members: Kayla Alston (UConn), Helen Baraki (CityTech), and Emily Rosario (Fordham)
+      - Mentors: Gary M. Weiss (Fordham), Ray Tischio (Fordham)
+    - Autonomous Robot Exploration: Team 2
+      - Team Members: Feizza Fazilatun (Hunter),Connie Deng (Hunter), Sylvia DeBenedictis (Hunter),
+      - Mentor: Damian Lyons (Fordham)
+    - Quantum Deep Learning for Binary Classification
+      - Team Members: Jonathan Montag (Hofstra) Ashely Tang (UConn)
+      - Mentor: Ying Mao (Fordham), Samuel Stein (Fordham)
+    - Recognition on Food Images
+      - Team Members: Michaela Felipe (UConn), Yuet Ho (Fordham), Rinchen Lama (Hunter), Aditya Kulkarni (UConn)
+      - Mentor: Caiwen Ding (UConn)
+    - Resource management for Deep Learning Application on the Cloud
+      - Team Members: Leyla Tuon Cao (Hunter), Wenxin Liu (Hofstra),
+      - Mentor: Ying Mao (Fordham)
+    - Leadership Styles in Online Software Community
+      - Dana Fishman (Hunter), Brandon Cay (William Paterson)
+      - Mentors: Ye Yang (Stevens), Yinghui Cai (Stevens)
 ----
 
 ## Award
