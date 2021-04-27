@@ -58,11 +58,38 @@ combining multiple scoring systems
 ---
 
 - Research presentation
+
   - session-1
     - Spam Classification Using Machine Learning
       - Team Members: Deshawn Leiba (William Paterson), Fidel Ojimba (Hunter), Gary
 Tapia (Fordham), and Senay Tesfamichael (Rowan)
       - Mentors: Gary M. Weiss (Fordham), Ray Tischio (Fordham)
+    - Autonomous Robot Exploration: Team 1
+      - Team Member: Zarrin Ali (Fordham), Jessica De Moto Munoz (Hunter), Duvall Pinkney (Lehman),
+      - Mentor: Damian Lyons (Fordham)
+    - Quantum State Fidelity based Autoencoder
+      - Team Members: Sanjidah Abdullah (Hunter), Ethan Lazaro (UConn), Durwood Pinkett (Rowan)
+      - Mentors: Ying Mao (Fordham), Samuel Stein (Fordham)
+    - Predicting COVID-19 Transmission in Connecticut Using Deep Learning
+      - Team Members: Ayushi Patel (UConn), Khori Francis (UConn), Kathryn Dyson (UConn), Nathan Choi (UConn)
+      - Mentor: Caiwen Ding (UConn)
+    - Utility Monitoring in Data Centers
+      - Team Members: Kiera Wolfe (UConn), Erik Brown (Fordham), Sheriann, McLarty (CityTech)
+      - Mentor: Caiwen Ding (UConn)
+    - Fairness and Privacy in the Optimal Transport for Resource Allocation
+      - Team Members: Erin Yan (CMU), Hailey Bober (Hofstra), Maria Jara (Fordham), Navpreet, Kaur (Fordham)
+      - Mentor: Juntao Chen (Fordham)
+    - Detecting and Tracking Variations and Biases in Figure Skating Judgement
+      - Team Members: Yoomin Song (Hunter), Karla Rodriguez (Fordham), Lani Moreno (Rider),
+      - Mentor: Frank Hsu (Fordham)
+    - Quantum Convolutional Neural Network
+      - Team Members: Cyrus Simmons (Staten Island) and Kate Piotrowski (UConn)
+      - Mentors: Ying Mao (Fordham), Samuel Stein (Fordham)
+    - Efficient Pruning for Deep Neural Networks
+      - Team Member: Saumya Shah (UConn)
+      - Mentors: Caiwen Ding (UConn), Aditya Kulkarni (UConn)
+
+
 ----
 
 ## Award
