@@ -117,6 +117,7 @@ Tapia (Fordham), and Senay Tesfamichael (Rowan)
     - *Leadership Styles in Online Software Community*
       - Team Members: Dana Fishman (Hunter), Brandon Cay (William Paterson)
       - Mentors: Ye Yang (Stevens), Yinghui Cai (Stevens)
+      
 ----
 
 ## Award
