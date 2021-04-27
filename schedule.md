@@ -43,12 +43,26 @@ The interested students apply through our [online application](https://docs.goog
 
 ## Workshop Schedule (on April 23rd, 2021)
 
-- Keynote speaker from Academia and Industry
-- Panel discussion on research and career
-- Research poster presentation
+- (9:30 am )Keynote speaker from Academia: Frank Hsu, Fordham University
+  - Title: Combinatorial Fusion Analysis: A new paradigm for
+combining multiple scoring systems
 
-- To be determined
+- (10:15 am) Keynote speakers from Industry: Adam Wood (Google Tensorflow Team), Qin Cao (Google Research)
+- Title: Deep learning with Tensorflow and Research at Google
 
+- (11:15 am) Panel discussion: Minorities in Computer Science: Challenges and Opportunities
+ - Panlist: Gary M. Weiss (Fordham), Damian Lyons (Fordham), Ye Yang (Stevens), Grace Bae (Stevens)
+
+ - (11:45 am) Virtual Coffee Break and Presentation Setup
+
+---
+
+- Research presentation
+  - session-1
+    - Spam Classification Using Machine Learning
+      - Team Members: Deshawn Leiba (William Paterson), Fidel Ojimba (Hunter), Gary
+Tapia (Fordham), and Senay Tesfamichael (Rowan)
+      - Mentors: Gary M. Weiss (Fordham), Ray Tischio (Fordham)
 ----
 
 ## Award
