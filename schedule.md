@@ -90,33 +90,32 @@ Tapia (Fordham), and Senay Tesfamichael (Rowan)
       - Mentors: Caiwen Ding (UConn), Aditya Kulkarni (UConn)
 ---
   - Session-2
-    - Preference Detection using Eye Movement Gaze Cascade and
-Combinatorial Fusion
+    - *Preference Detection using Eye Movement Gaze Cascade and Combinatorial Fusion*
       - Team Members: Millenia Polanco(UConn), Sanaa Elmosbah(CityTech), Kexin Zhang(Fordham)
       - Mentors: Frank Hsu (Fordham), Christina Schweikert (St. Johns)
-    - Detecting Student Emotion and Flow in College Students During the Online Courses – Objectivity-Oriented Approach in the Context of Coding Practice for Engineering Classes
+    - *Detecting Student Emotion and Flow in College Students During the Online Courses – Objectivity-Oriented Approach in the Context of Coding Practice for Engineering Classes*
       - Team Members: Arens Demaliaj (Hunter), Hashir Khan (Hunter) and Imtiaz Rahman (Hunter)
       - Mentor: Grace Bae (Stevens)
-    - Tak Pricing Patterns in Software Crowdsourcing
+    - *Tak Pricing Patterns in Software Crowdsourcing*
       - Team Members: April McBroom (Hartford), Jeison Araujo (CityTech), Joseph Mirabile (Stevens),
       - Mentors: Ye Yang (Stevens), Yinghui Cai (Stevens)
-    - Spam Detectives: SMS Spam Detection
+    - *Spam Detectives: SMS Spam Detection*
       - Team Members: Kayla Alston (UConn), Helen Baraki (CityTech), and Emily Rosario (Fordham)
       - Mentors: Gary M. Weiss (Fordham), Ray Tischio (Fordham)
-    - Autonomous Robot Exploration: Team 2
+    - *Autonomous Robot Exploration: Team 2*
       - Team Members: Feizza Fazilatun (Hunter),Connie Deng (Hunter), Sylvia DeBenedictis (Hunter),
       - Mentor: Damian Lyons (Fordham)
-    - Quantum Deep Learning for Binary Classification
+    - *Quantum Deep Learning for Binary Classification*
       - Team Members: Jonathan Montag (Hofstra) Ashely Tang (UConn)
       - Mentor: Ying Mao (Fordham), Samuel Stein (Fordham)
-    - Recognition on Food Images
+    - *Recognition on Food Images*
       - Team Members: Michaela Felipe (UConn), Yuet Ho (Fordham), Rinchen Lama (Hunter), Aditya Kulkarni (UConn)
       - Mentor: Caiwen Ding (UConn)
-    - Resource management for Deep Learning Application on the Cloud
+    - *Resource management for Deep Learning Application on the Cloud*
       - Team Members: Leyla Tuon Cao (Hunter), Wenxin Liu (Hofstra),
       - Mentor: Ying Mao (Fordham)
-    - Leadership Styles in Online Software Community
-      - Dana Fishman (Hunter), Brandon Cay (William Paterson)
+    - *Leadership Styles in Online Software Community*
+      - Team Members: Dana Fishman (Hunter), Brandon Cay (William Paterson)
       - Mentors: Ye Yang (Stevens), Yinghui Cai (Stevens)
 ----
 
