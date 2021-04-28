@@ -125,12 +125,17 @@ Tapia (Fordham), and Senay Tesfamichael (Rowan)
 - Detecting Student Emotion and Flow in College Students During the Online Courses – Objectivity-Oriented Approach in the Context of Coding Practice for Engineering Classes
   - Team: Arens Demaliaj (Hunter), Hashir Khan (Hunter) and Imtiaz Rahman (Hunter)
   - Mentor: Grace Bae (Stevens)
+
 ---
+
 - Autonomous Robot Exploration: Team 2
   - Team: Feizza Fazilatun (Hunter),Connie Deng (Hunter) and Sylvia DeBenedictis (Hunter)
   - Mentor: Damian Lyons (Fordham)
+
 ---  
+
 - Utility Monitoring in Data Centers
   - Team: Kiera Wolfe (UConn), Erik Brown (Fordham) and Sheriann McLarty (CityTech)
   - Mentor: Caiwen Ding (UConn)
+  
 ---
