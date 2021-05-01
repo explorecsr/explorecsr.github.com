@@ -61,7 +61,7 @@ combining multiple scoring systems
 
   - Session-1
     - **Spam Classification Using Machine Learning**
-      - Team Members: Deshawn Leiba (William Paterson), Fidel Ojimba (Hunter), Gary
+      - Team Members: Dashawn Leiba (William Paterson), Fidel Ojimba (Hunter), Gary
 Tapia (Fordham), and Senay Tesfamichael (Rowan)
       - Mentors: Gary M. Weiss (Fordham), Ray Tischio (Fordham)
     - **Autonomous Robot Exploration: Team 1**
