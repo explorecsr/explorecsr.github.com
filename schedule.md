@@ -95,7 +95,7 @@ Tapia (Fordham), and Senay Tesfamichael (Rowan)
       - Mentors: Frank Hsu (Fordham), Christina Schweikert (St. Johns)
     - **Detecting Student Emotion and Flow in College Students During the Online Courses – Objectivity-Oriented Approach in the Context of Coding Practice for Engineering Classes**
       - Team Members: Arens Demaliaj (Hunter), Hashir Khan (Hunter) and Imtiaz Rahman (Hunter)
-      - Mentor: Sang Won (Grace) Bae (Stevens)
+      - Mentor: Sang Won (Grace) Bae (Stevens), Rahul Islam (Stevens) and Monil Shah (Stevens)
     - **Tak Pricing Patterns in Software Crowdsourcing**
       - Team Members: April McBroom (Hartford), Jeison Araujo (CityTech), Joseph Mirabile (Stevens),
       - Mentors: Ye Yang (Stevens), Yinghui Cai (Stevens)
@@ -124,7 +124,7 @@ Tapia (Fordham), and Senay Tesfamichael (Rowan)
 
 - Detecting Student Emotion and Flow in College Students During the Online Courses – Objectivity-Oriented Approach in the Context of Coding Practice for Engineering Classes
   - Team: Arens Demaliaj (Hunter), Hashir Khan (Hunter) and Imtiaz Rahman (Hunter)
-  - Mentor: Sang Won (Grace) Bae (Stevens)
+  - Mentor: Sang Won (Grace) Bae (Stevens), Rahul Islam (Stevens) and Monil Shah (Stevens)
 
 ---
 
