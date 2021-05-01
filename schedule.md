@@ -51,7 +51,7 @@ combining multiple scoring systems
 - Title: Deep learning with Tensorflow and Research at Google
 
 - (11:15 am) Panel discussion: Minorities in Computer Science: Challenges and Opportunities
- - Panlist: Gary M. Weiss (Fordham), Damian Lyons (Fordham), Ye Yang (Stevens), Grace Bae (Stevens)
+ - Panlist: Gary M. Weiss (Fordham), Damian Lyons (Fordham), Ye Yang (Stevens), Sang Won (Grace) Bae (Stevens)
 
  - (11:45 am) Virtual Coffee Break and Presentation Setup
 
@@ -95,7 +95,7 @@ Tapia (Fordham), and Senay Tesfamichael (Rowan)
       - Mentors: Frank Hsu (Fordham), Christina Schweikert (St. Johns)
     - **Detecting Student Emotion and Flow in College Students During the Online Courses – Objectivity-Oriented Approach in the Context of Coding Practice for Engineering Classes**
       - Team Members: Arens Demaliaj (Hunter), Hashir Khan (Hunter) and Imtiaz Rahman (Hunter)
-      - Mentor: Grace Bae (Stevens)
+      - Mentor: Sang Won (Grace) Bae (Stevens)
     - **Tak Pricing Patterns in Software Crowdsourcing**
       - Team Members: April McBroom (Hartford), Jeison Araujo (CityTech), Joseph Mirabile (Stevens),
       - Mentors: Ye Yang (Stevens), Yinghui Cai (Stevens)
@@ -124,7 +124,7 @@ Tapia (Fordham), and Senay Tesfamichael (Rowan)
 
 - Detecting Student Emotion and Flow in College Students During the Online Courses – Objectivity-Oriented Approach in the Context of Coding Practice for Engineering Classes
   - Team: Arens Demaliaj (Hunter), Hashir Khan (Hunter) and Imtiaz Rahman (Hunter)
-  - Mentor: Grace Bae (Stevens)
+  - Mentor: Sang Won (Grace) Bae (Stevens)
 
 ---
 
@@ -137,5 +137,5 @@ Tapia (Fordham), and Senay Tesfamichael (Rowan)
 - Utility Monitoring in Data Centers
   - Team: Kiera Wolfe (UConn), Erik Brown (Fordham) and Sheriann McLarty (CityTech)
   - Mentor: Caiwen Ding (UConn)
-  
+
 ---
